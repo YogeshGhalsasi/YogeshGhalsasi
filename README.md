@@ -3,7 +3,7 @@
 **SAP & ERP Consultant → Agentic AI Automation Specialist**  
 27 years of SAP domain experience (SD, MM, PS, BI/BW) · Now building AI-powered automation for ERP workflows
 
-📍 Pune, India &nbsp;|&nbsp; 📧 ysghalsasi@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ysghalsasi)
+📍 Pune, India &nbsp;|&nbsp; 📧 jobs.ysg@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ysghalsasi)
 
 ---
 
