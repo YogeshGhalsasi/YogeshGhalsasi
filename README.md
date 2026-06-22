@@ -21,8 +21,8 @@ My edge: I don't just know the AI tools — I know exactly which SAP processes a
 |------|--------------|-------|
 | [agentic-ai-projects](https://github.com/yogeshghalsasi/agentic-ai-projects) | SAP Q&A bot (flagship), LangChain agents, CrewAI experiments | Python · Claude API · Streamlit · LangChain |
 | [ml-projects](https://github.com/yogeshghalsasi/ml-projects) | Regression, classification, clustering on real-world datasets | Python · scikit-learn · pandas · matplotlib |
-| [powerbi-dashboards](https://github.com/ysghalsasi/powerbi-dashboards) | Sales, operations, and procurement dashboards built for SME clients | Power BI · DAX · Excel |
-| [automation-projects](https://github.com/ysghalsasi/automation-projects) | Daily task tracker app, Python automation scripts, n8n workflows | HTML/JS · Python · n8n |
+| [powerbi-dashboards](https://github.com/yogeshghalsasi/powerbi-dashboards) | Sales, operations, and procurement dashboards built for SME clients | Power BI · DAX · Excel |
+| [automation-projects](https://github.com/yogeshghalsasi/automation-projects) | Daily task tracker app, Python automation scripts, n8n workflows | HTML/JS · Python · n8n |
 
 ---
 
