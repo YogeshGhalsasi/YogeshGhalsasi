@@ -1,83 +1,50 @@
 # Hi, I'm Yogesh Ghalsasi 👋
 
-## About Me
+**SAP & ERP Consultant → Agentic AI Automation Specialist**  
+27 years of SAP domain experience (SD, MM, PS, BI/BW) · Now building AI-powered automation for ERP workflows
 
-Experienced ERP Consultant with 30 years of experience in:
-
-- ERP Implementation
-- Business Process Automation
-- Project Coordination
-- SAP Process Understanding
-- Excel Automation
-
-Currently transitioning into:
-
-- Python Development
-- Data Science
-- Machine Learning
-- AI Automation
-- Workflow Automation
+📍 Pune, India &nbsp;|&nbsp; 📧 ysghalsasi@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ysghalsasi)
 
 ---
 
-## Skills
+## 🤖 What I'm building
 
-### ERP & Business Systems
+I'm transitioning from senior SAP consulting into **Agentic AI** — specifically using LangChain, CrewAI, and the Anthropic Claude API to automate the complex, document-heavy workflows that live inside SAP and ERP environments.
 
-- ERP Implementation
-- Business Process Analysis
-- Sales Order Processing
-- Inventory Management
-- User Support & Training
-
-### Technical Skills
-
-- Python
-- Excel Automation
-- JSON
-- Data Analysis
-- SQL
-- Automation Workflows
-
-### Learning
-
-- Machine Learning
-- Artificial Intelligence
-- Data Science
-- ERP Automation
+My edge: I don't just know the AI tools — I know exactly which SAP processes are painful enough to automate first.
 
 ---
 
-## Projects
+## 📂 Project Repositories
 
-### Order Processing Automation System
-
-Automates customer order processing using Python.
-
-Features:
-
-- Order extraction
-- Sales order creation
-- JSON database
-- ERP integration preparation
-
-Repository:
-
-Order Processing Automation System
+| Repo | What's inside | Stack |
+|------|--------------|-------|
+| [agentic-ai-projects](https://github.com/ysghalsasi/agentic-ai-projects) | SAP Q&A bot (flagship), LangChain agents, CrewAI experiments | Python · Claude API · Streamlit · LangChain |
+| [ml-projects](https://github.com/ysghalsasi/ml-projects) | Regression, classification, clustering on real-world datasets | Python · scikit-learn · pandas · matplotlib |
+| [powerbi-dashboards](https://github.com/ysghalsasi/powerbi-dashboards) | Sales, operations, and procurement dashboards built for SME clients | Power BI · DAX · Excel |
+| [automation-projects](https://github.com/ysghalsasi/automation-projects) | Daily task tracker app, Python automation scripts, n8n workflows | HTML/JS · Python · n8n |
 
 ---
 
-## Current Focus
+## 🏗️ Currently working on
 
-Building practical automation solutions involving:
-
-- Email Automation
-- Excel Automation
-- ERP Integration
-- AI Assisted Workflows
+- 🚀 **SAP Q&A Bot** — Streamlit app using the Claude API to answer SAP process questions from uploaded documents (Phase 2 of my AI upskilling roadmap)
+- 📱 **Daily Task Tracker** — WhatsApp-style personal task manager in HTML/JS, deploying to GitHub Pages
 
 ---
 
-## Contact
+## 🧰 Skills & tools
 
-GitHub: @yogeshghalsasi
+**SAP:** SD · MM · PS · BI/BW · 27 years functional + project management  
+**AI/ML:** Python · LangChain · CrewAI · Claude API · scikit-learn · pandas  
+**Analytics:** Power BI · DAX · Excel (advanced) · SQL  
+**Automation:** n8n · Python scripting · VBA  
+**Certs:** PMP · PGDSBA (Great Lakes) · MCA (Savitribai Phule Pune University)
+
+---
+
+## 📬 Let's connect
+
+Open to **freelance projects** involving SAP process automation, ERP data analysis, AI agent development, or Power BI dashboards for manufacturing and process industries.
+
+[LinkedIn](https://linkedin.com/in/ysghalsasi) · [Email](mailto:ysghalsasi@gmail.com)
