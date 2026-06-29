@@ -35,11 +35,11 @@ My edge: I don't just know the AI tools — I know exactly which SAP processes a
 
 ## 🧰 Skills & tools
 
-**SAP:** SD · MM · PS · BI/BW · 27 years functional + project management  
+**SAP:** SD · MM · PS · BI/BW ·  
 **AI/ML:** Python · LangChain · CrewAI · Claude API · scikit-learn · pandas  
 **Analytics:** Power BI · DAX · Excel (advanced) · SQL  
 **Automation:** n8n · Python scripting · VBA  
-**Certs:** PMP · PGDSBA (Great Lakes) · MCA (Savitribai Phule Pune University)
+**Certs:** PMP · PGDSBA (Great Lakes) · MCM (Savitribai Phule Pune University)
 
 ---
 
