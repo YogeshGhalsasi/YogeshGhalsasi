@@ -1,7 +1,7 @@
 # Hi, I'm Yogesh Ghalsasi 👋
 
 **SAP & ERP Consultant → Agentic AI Automation Specialist**  
-27 years of SAP domain experience (SD, MM, PS, BI/BW) · Now building AI-powered automation for ERP workflows
+Experienced SAP & ERP Consultant (SD, MM, PS, BI/BW) · Now building AI-powered automation for ERP workflows
 
 📍 Pune, India &nbsp;|&nbsp; 📧 jobs.ysg@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ysghalsasi)
 
@@ -9,7 +9,7 @@
 
 ## 🤖 What I'm building
 
-I'm transitioning from senior SAP consulting into **Agentic AI** — specifically using LangChain, CrewAI, and the Anthropic Claude API to automate the complex, document-heavy workflows that live inside SAP and ERP environments.
+Building Enterprise AI solutions for SAP and ERP business processes. **Agentic AI** — specifically using LangChain, CrewAI, and the Anthropic Claude API to automate the complex, document-heavy workflows that live inside SAP and ERP environments.
 
 My edge: I don't just know the AI tools — I know exactly which SAP processes are painful enough to automate first.
 
