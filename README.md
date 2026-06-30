@@ -1,50 +1,59 @@
 # Hi, I'm Yogesh Ghalsasi 👋
 
-**SAP & ERP Consultant → Agentic AI Automation Specialist**  
-Experienced SAP & ERP Consultant (SD, MM, PS, BI/BW) · Now building AI-powered automation for ERP workflows
+## AI ERP Consultant | SAP ERP Consultant | Enterprise AI Developer
 
-📍 Pune, India &nbsp;|&nbsp; 📧 jobs.ysg@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ysghalsasi)
+Experienced ERP Consultant with expertise in SAP ERP, business process consulting, and enterprise application support. Currently building AI-powered solutions that automate ERP business processes using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Python.
 
----
-
-## 🤖 What I'm building
-
-Building Enterprise AI solutions for SAP and ERP business processes. **Agentic AI** — specifically using LangChain, CrewAI, and the Anthropic Claude API to automate the complex, document-heavy workflows that live inside SAP and ERP environments.
-
-My edge: I don't just know the AI tools — I know exactly which SAP processes are painful enough to automate first.
+📍 Pune, India  
+📧 jobs.ysg@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/ysghalsasi
 
 ---
 
-## 📂 Project Repositories
+## Featured Projects
 
-| Repo | What's inside | Stack |
-|------|--------------|-------|
-| [agentic-ai-projects](https://github.com/yogeshghalsasi/agentic-ai-projects) | SAP Q&A bot (flagship), LangChain agents, CrewAI experiments | Python · Claude API · Streamlit · LangChain |
-| [ml-projects](https://github.com/yogeshghalsasi/ml-projects) | Regression, classification, clustering on real-world datasets | Python · scikit-learn · pandas · matplotlib |
-| [powerbi-dashboards](https://github.com/yogeshghalsasi/powerbi-dashboards) | Sales, operations, and procurement dashboards built for SME clients | Power BI · DAX · Excel |
-| [automation-projects](https://github.com/yogeshghalsasi/automation-projects) | Daily task tracker app, Python automation scripts, n8n workflows | HTML/JS · Python · n8n |
-
----
-
-## 🏗️ Currently working on
-
-- 🚀 **SAP Q&A Bot** — Streamlit app using the Claude API to answer SAP process questions from uploaded documents (Phase 2 of my AI upskilling roadmap)
-- 📱 **Daily Task Tracker** — WhatsApp-style personal task manager in HTML/JS, deploying to GitHub Pages
+| Project | Description | Technology |
+|---------|-------------|------------|
+| **SAP AI Copilot** | AI assistant for SAP Sales Order and ERP business processes. | Python • Streamlit • LLM • RAG |
+| **SAP QA Bot** | Intelligent chatbot for answering SAP business process questions. | Python • Streamlit • Groq • LLM |
+| **ERP AI Automation** | AI-driven automation for ERP workflows and document processing. | Python • AI Agents • Automation |
+| **Power BI Business Dashboards** | Interactive dashboards for manufacturing and business analytics. | Power BI • DAX • Excel |
+| **Automation Projects** | Python automation utilities and productivity solutions. | Python • Git • Automation |
 
 ---
 
-## 🧰 Skills & tools
+## Current Focus
 
-**SAP:** SD · MM · PS · BI/BW ·  
-**AI/ML:** Python · LangChain · CrewAI · Claude API · scikit-learn · pandas  
-**Analytics:** Power BI · DAX · Excel (advanced) · SQL  
-**Automation:** n8n · Python scripting · VBA  
-**Certs:** PMP · PGDSBA (Great Lakes) · MCM (Savitribai Phule Pune University)
+- Enterprise AI for SAP & ERP
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- AI Process Automation
+- Streamlit Application Development
 
 ---
 
-## 📬 Let's connect
+## Technical Skills
 
-Open to **freelance projects** involving SAP process automation, ERP data analysis, AI agent development, or Power BI dashboards for manufacturing and process industries.
+**ERP:** SAP ECC, SD, MM, PS
 
-[LinkedIn](https://linkedin.com/in/ysghalsasi) · [Email](mailto:ysghalsasi@gmail.com)
+**AI:** Python, LLMs, RAG, Streamlit, Prompt Engineering
+
+**Analytics:** Power BI, SQL, Excel
+
+**Tools:** Git, GitHub
+
+---
+
+## Certifications
+
+- PMP
+- PG Diploma in Data Science & Analytics
+- PG Diploma in Computer Management
+
+---
+
+## Connect
+
+I'm interested in opportunities involving **AI ERP Consulting, SAP ERP Solutions, Enterprise AI, and Business Process Automation.**
+
+🔗 LinkedIn: https://linkedin.com/in/ysghalsasi
