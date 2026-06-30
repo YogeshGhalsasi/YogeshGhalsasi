@@ -10,50 +10,80 @@ Experienced ERP Consultant with expertise in SAP ERP, business process consultin
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Technology |
-|---------|-------------|------------|
-| **SAP AI Copilot** | AI assistant for SAP Sales Order and ERP business processes. | Python • Streamlit • LLM • RAG |
-| **SAP QA Bot** | Intelligent chatbot for answering SAP business process questions. | Python • Streamlit • Groq • LLM |
-| **ERP AI Automation** | AI-driven automation for ERP workflows and document processing. | Python • AI Agents • Automation |
-| **Power BI Business Dashboards** | Interactive dashboards for manufacturing and business analytics. | Power BI • DAX • Excel |
-| **Automation Projects** | Python automation utilities and productivity solutions. | Python • Git • Automation |
+| Status | Project | Description | Technology |
+|:------:|---------|-------------|------------|
+| 🚧 | **[SAP AI Copilot](https://github.com/YogeshGhalsasi/SAP-AI-Copilot)** | AI assistant for SAP Sales Order and ERP business processes. | Python • Streamlit • LLM • RAG |
+| ✅ | **[SAP QA Bot](https://github.com/YogeshGhalsasi/sap-qa-bot)** | Intelligent chatbot for answering SAP business process questions using AI. | Python • Streamlit • Groq • LLM |
+| 🚧 | **[ERP AI Automation](https://github.com/YogeshGhalsasi/ERP-AI-Automation)** | AI-driven automation for ERP workflows and document processing. | Python • AI • Automation |
+| ✅ | **[Power BI Business Dashboards](https://github.com/YogeshGhalsasi/powerbi-business-dashboards)** | Interactive dashboards for manufacturing and business analytics. | Power BI • DAX • Excel |
+| ✅ | **[Automation Projects](https://github.com/YogeshGhalsasi/automation-projects)** | Python automation utilities and productivity solutions. | Python • Git • Automation |
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 - Enterprise AI for SAP & ERP
-- Agentic AI
+- AI-powered Business Process Automation
 - Retrieval-Augmented Generation (RAG)
-- AI Process Automation
+- Agentic AI
 - Streamlit Application Development
+- GitHub Portfolio Development
 
 ---
 
-## Technical Skills
+## 🛠 Technical Skills
 
-**ERP:** SAP ECC, SD, MM, PS
+**ERP**
 
-**AI:** Python, LLMs, RAG, Streamlit, Prompt Engineering
+- SAP ECC
+- SD
+- MM
+- PS
+- Business Process Consulting
 
-**Analytics:** Power BI, SQL, Excel
+**AI & Development**
 
-**Tools:** Git, GitHub
+- Python
+- LLMs
+- RAG
+- Streamlit
+- Prompt Engineering
+
+**Analytics**
+
+- Power BI
+- SQL
+- Advanced Excel
+
+**Tools**
+
+- Git
+- GitHub
 
 ---
 
-## Certifications
+## 🎓 Certifications
 
-- PMP
-- PG Diploma in Data Science & Analytics
+- PMP (Project Management Professional)
+- PG Program in Data Science & Analytics
 - PG Diploma in Computer Management
 
 ---
 
-## Connect
+## 🤝 Let's Connect
 
-I'm interested in opportunities involving **AI ERP Consulting, SAP ERP Solutions, Enterprise AI, and Business Process Automation.**
+I'm interested in opportunities involving:
 
-🔗 LinkedIn: https://linkedin.com/in/ysghalsasi
+- AI ERP Consulting
+- SAP ERP Solutions
+- Enterprise AI
+- Business Process Automation
+- Manufacturing Digital Transformation
+
+💼 LinkedIn: https://linkedin.com/in/ysghalsasi
+
+---
+
+> *"Transforming ERP business knowledge into practical AI solutions."*
