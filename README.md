@@ -68,7 +68,7 @@ Experienced ERP Consultant with expertise in SAP ERP, business process consultin
 
 - PMP (Project Management Professional)
 - PG Program in Data Science & Analytics
-- PG Diploma in Computer Management
+- PG in Computer Management(MCM)
 
 ---
 
